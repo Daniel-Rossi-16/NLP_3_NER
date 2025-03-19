@@ -5,3 +5,7 @@ scikit-learn
 spacy
 joblib
 pytest
+datasets
+transformers
+seqeval
+torch
